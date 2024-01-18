@@ -11045,7 +11045,7 @@ html {
   background-color: #1a252f;
 }
 
-button {
+.button {
   background-color: #04636D; /* Green */
   border: none;
   color: white;
